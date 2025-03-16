@@ -71,11 +71,9 @@ I'm a passionate software developer, continuously pushing the boundaries of tech
 
 ---
 
----
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnwesly08&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=johnwesly08&theme=dark&hide_border=true)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnwesly08&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=johnwesly08&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesly08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔝 Top Contributed Repos
