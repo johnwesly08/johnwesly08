@@ -82,8 +82,5 @@ I'm a passionate software developer, continuously pushing the boundaries of tech
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=johnwesly08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![Visitors](https://visitcount.itsvg.in/api?id=johnwesly08&icon=9&color=4)](https://visitcount.itsvg.in)
-
----
-🚀 _Let's build something awesome together!_ 🚀
+🚀 _"Create, innovate, simplify—making life easier for all."!_ 🚀
 
