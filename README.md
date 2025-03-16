@@ -29,8 +29,6 @@ I'm a passionate software developer, continuously pushing the boundaries of tech
 
 ---
 
-## 💻 Tech Stack
-
 # 💻 Tech Stack:
 
 ### **Programming Languages**  
